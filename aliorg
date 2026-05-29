@@ -1,14 +1,8 @@
 [
   {
     "device_id": "d8768cc5d9b4cd17",
-    "key": "ZSV4U-EJCQQ-KPXLK-23UZX",
-    "expirydate": "27-08-2026",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "76f85f42f7bd1714",
-    "key": "DJ64R-MYQ86-EHS2D-7A78W",
+    "key": "6EHXH-K27EQ-3JGJ5-6E2QS",
     "expirydate": "30-05-2027",
-    "Allowoffline": true
+    "Allowoffline": false
   }
 ]
