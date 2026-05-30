@@ -4,5 +4,11 @@
     "key": "6EHXH-K27EQ-3JGJ5-6E2QS",
     "expirydate": "30-05-2027",
     "Allowoffline": false
+  },
+  {
+    "device_id": "1a14f22a8094622a",
+    "key": "TLCW3-GQGCC-UDR2B-YASU8",
+    "expirydate": "30-05-2027",
+    "Allowoffline": true
   }
 ]
