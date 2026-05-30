@@ -10,5 +10,11 @@
     "key": "9DXLQ-5UQMG-EXPQ2-AM4YT",
     "expirydate": "30-05-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "ecebfef4bbe60204",
+    "key": "AST5Y-ZBX64-238L3-P2CN8",
+    "expirydate": "29-06-2026",
+    "Allowoffline": false
   }
 ]
