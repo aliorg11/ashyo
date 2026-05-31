@@ -22,5 +22,11 @@
     "key": "4Z7AD-9TKEC-CUMFA-2ZDM9",
     "expirydate": "15-06-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "320ce10da4671201",
+    "key": "G4DSA-UP78R-F69YQ-VWQVH",
+    "expirydate": "31-05-2027",
+    "Allowoffline": true
   }
 ]
