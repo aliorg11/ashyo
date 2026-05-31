@@ -28,5 +28,11 @@
     "key": "G4DSA-UP78R-F69YQ-VWQVH",
     "expirydate": "31-05-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "4bb3bc3a9898bbfe",
+    "key": "R26HZ-7RDY5-W3UWK-8GMBP",
+    "expirydate": "31-05-2027",
+    "Allowoffline": true
   }
 ]
