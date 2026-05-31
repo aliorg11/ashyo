@@ -34,5 +34,11 @@
     "key": "R26HZ-7RDY5-W3UWK-8GMBP",
     "expirydate": "31-05-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "edea6b88b7b7fa21",
+    "key": "JLUX9-EGFGT-QDCGZ-XVNKJ",
+    "expirydate": "31-05-2027",
+    "Allowoffline": true
   }
 ]
