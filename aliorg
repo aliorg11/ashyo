@@ -76,5 +76,11 @@
     "key": "RKNDL-G764E-95LLK-RPH96",
     "expirydate": "01-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "7f20c30e21380bb3",
+    "key": "UHNWS-28AS3-QV5XH-VJK2W",
+    "expirydate": "01-06-2027",
+    "Allowoffline": true
   }
 ]
