@@ -64,5 +64,11 @@
     "key": "M9KVY-DZVDU-AQ8TC-SFKT4",
     "expirydate": "01-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "11eaa8676034d0ee",
+    "key": "NRQHV-XX3HH-YVVRC-VE2PK",
+    "expirydate": "01-06-2027",
+    "Allowoffline": true
   }
 ]
