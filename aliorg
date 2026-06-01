@@ -58,5 +58,11 @@
     "key": "HVVWM-AGZ8G-R3WNK-KYXYL",
     "expirydate": "01-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "e957cf23b993d30b",
+    "key": "M9KVY-DZVDU-AQ8TC-SFKT4",
+    "expirydate": "01-06-2027",
+    "Allowoffline": true
   }
 ]
