@@ -148,5 +148,11 @@
     "key": "9MKX8-HGW37-C5NAJ-JFS8D",
     "expirydate": "01-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "bbab2eb7cb0e532d",
+    "key": "FKWW8-PEENK-38YC8-XSCLT",
+    "expirydate": "01-06-2027",
+    "Allowoffline": true
   }
 ]
