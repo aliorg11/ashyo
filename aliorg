@@ -82,5 +82,11 @@
     "key": "UHNWS-28AS3-QV5XH-VJK2W",
     "expirydate": "01-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "5961282a982daba5",
+    "key": "29J5L-DHRFV-782Z9-RE8YJ",
+    "expirydate": "01-06-2027",
+    "Allowoffline": true
   }
 ]
