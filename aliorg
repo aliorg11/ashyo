@@ -88,5 +88,11 @@
     "key": "29J5L-DHRFV-782Z9-RE8YJ",
     "expirydate": "01-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "988a2ee806ff32de",
+    "key": "T3UYS-ZL4JT-RQJEU-6PGUN",
+    "expirydate": "01-06-2027",
+    "Allowoffline": true
   }
 ]
