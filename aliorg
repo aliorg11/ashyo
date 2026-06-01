@@ -94,5 +94,11 @@
     "key": "T3UYS-ZL4JT-RQJEU-6PGUN",
     "expirydate": "01-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "5adb913b6d944de6",
+    "key": "7SN3U-A23JH-P8YYE-J9UVP",
+    "expirydate": "01-06-2027",
+    "Allowoffline": true
   }
 ]
