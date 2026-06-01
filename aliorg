@@ -70,5 +70,11 @@
     "key": "NRQHV-XX3HH-YVVRC-VE2PK",
     "expirydate": "01-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "1b0db2ddf5074e89",
+    "key": "RKNDL-G764E-95LLK-RPH96",
+    "expirydate": "01-06-2027",
+    "Allowoffline": true
   }
 ]
