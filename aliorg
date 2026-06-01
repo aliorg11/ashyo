@@ -160,5 +160,11 @@
     "key": "DEFKX-U9GH5-24UBG-AJZMQ",
     "expirydate": "01-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "fc364fa7be2da88b",
+    "key": "D6P4N-A6J8A-TCT5E-WJ7VL",
+    "expirydate": "01-06-2027",
+    "Allowoffline": true
   }
 ]
