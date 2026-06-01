@@ -136,5 +136,11 @@
     "key": "48WZN-FRZUU-W544U-9HKPX",
     "expirydate": "01-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "519a56d7caa6860d",
+    "key": "CXUWD-MD2A3-YVBR4-JB7DN",
+    "expirydate": "01-06-2027",
+    "Allowoffline": true
   }
 ]
