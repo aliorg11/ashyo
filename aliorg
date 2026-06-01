@@ -142,5 +142,11 @@
     "key": "CXUWD-MD2A3-YVBR4-JB7DN",
     "expirydate": "01-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "63b1b91c748a4c91",
+    "key": "9MKX8-HGW37-C5NAJ-JFS8D",
+    "expirydate": "01-06-2027",
+    "Allowoffline": true
   }
 ]
