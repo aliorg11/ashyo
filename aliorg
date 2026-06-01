@@ -52,5 +52,11 @@
     "key": "BXGXL-58WZ7-3REHE-HHAW7",
     "expirydate": "01-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "14339b59d6ad832a",
+    "key": "HVVWM-AGZ8G-R3WNK-KYXYL",
+    "expirydate": "01-06-2027",
+    "Allowoffline": true
   }
 ]
