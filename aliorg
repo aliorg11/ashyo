@@ -190,5 +190,11 @@
     "key": "36KH5-VURTY-5JLMK-M365R",
     "expirydate": "02-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "43fe34f01a7641d5",
+    "key": "EPGKP-29DPR-BHHAY-LFU4Y",
+    "expirydate": "02-06-2027",
+    "Allowoffline": true
   }
 ]
