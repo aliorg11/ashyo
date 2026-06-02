@@ -232,5 +232,11 @@
     "key": "PYL4A-PCZDB-6GYC4-8VJYQ",
     "expirydate": "03-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "096a1d8347f25d4f",
+    "key": "4A36H-BVBFE-2VMBT-C5JV4",
+    "expirydate": "03-06-2027",
+    "Allowoffline": true
   }
 ]
