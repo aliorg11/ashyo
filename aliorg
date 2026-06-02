@@ -196,5 +196,11 @@
     "key": "EPGKP-29DPR-BHHAY-LFU4Y",
     "expirydate": "02-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "2df736590361a0d4",
+    "key": "HA33N-9YSRT-3M6RL-N5QYR",
+    "expirydate": "03-06-2027",
+    "Allowoffline": true
   }
 ]
