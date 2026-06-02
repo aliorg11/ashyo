@@ -226,5 +226,11 @@
     "key": "NWAUR-VJ979-4EYY2-QD3G5",
     "expirydate": "03-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "9d072fe8b31f081a",
+    "key": "PYL4A-PCZDB-6GYC4-8VJYQ",
+    "expirydate": "03-06-2027",
+    "Allowoffline": true
   }
 ]
