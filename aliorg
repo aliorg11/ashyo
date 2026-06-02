@@ -202,5 +202,11 @@
     "key": "HA33N-9YSRT-3M6RL-N5QYR",
     "expirydate": "03-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "26c39d2e18f145fa",
+    "key": "FA7E8-PM9C5-UHH7V-FEG65",
+    "expirydate": "03-06-2027",
+    "Allowoffline": true
   }
 ]
