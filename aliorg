@@ -220,5 +220,11 @@
     "key": "ZGLRS-KZVPF-WBJQ9-M7FGH",
     "expirydate": "03-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "cc8de2f1410e7e39",
+    "key": "NWAUR-VJ979-4EYY2-QD3G5",
+    "expirydate": "03-06-2027",
+    "Allowoffline": true
   }
 ]
