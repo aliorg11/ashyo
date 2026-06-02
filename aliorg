@@ -214,5 +214,11 @@
     "key": "3C9J7-RT27Z-NM657-28HA2",
     "expirydate": "03-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "8a422d5ab44e2634",
+    "key": "ZGLRS-KZVPF-WBJQ9-M7FGH",
+    "expirydate": "03-06-2027",
+    "Allowoffline": true
   }
 ]
