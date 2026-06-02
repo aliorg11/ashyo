@@ -238,5 +238,11 @@
     "key": "4A36H-BVBFE-2VMBT-C5JV4",
     "expirydate": "03-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "ffe3aa66f204fb6c",
+    "key": "FAR9N-Y83YD-BLF7G-HKUPN",
+    "expirydate": "03-06-2027",
+    "Allowoffline": true
   }
 ]
