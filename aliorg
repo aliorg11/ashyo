@@ -256,5 +256,11 @@
     "key": "XPDPC-57LM2-TRA8K-FNV38",
     "expirydate": "04-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "cdfd92f8f6c153cf",
+    "key": "8E929-DH9RL-DPHS9-95KAP",
+    "expirydate": "04-06-2027",
+    "Allowoffline": true
   }
 ]
