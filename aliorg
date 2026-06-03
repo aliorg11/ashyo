@@ -240,11 +240,14 @@
     "Allowoffline": true
   },
   {
-    "device_id": "ffe3aa66f204fb6c",
-    "key": "FAR9N-Y83YD-BLF7G-HKUPN",
-    "expirydate": "03-06-2027",
     "device_id": "2cbed374bf341802",
     "key": "Y4T2V-Z9A38-YB2WD-D4CHP",
+    "expirydate": "04-06-2027",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "ed8afb1a43cbe759",
+    "key": "NMK3V-LX558-XPUVM-YB4BM",
     "expirydate": "04-06-2027",
     "Allowoffline": true
   }
