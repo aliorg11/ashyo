@@ -250,5 +250,11 @@
     "key": "NMK3V-LX558-XPUVM-YB4BM",
     "expirydate": "04-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "12d13120b2d4f6aa",
+    "key": "XPDPC-57LM2-TRA8K-FNV38",
+    "expirydate": "04-06-2027",
+    "Allowoffline": true
   }
 ]
