@@ -268,5 +268,11 @@
     "key": "VC7RA-CVBKX-RZ5J9-X3DPL",
     "expirydate": "04-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "d15ae57318bab605",
+    "key": "256Z4-LX8KG-Q6YMK-8EF94",
+    "expirydate": "04-06-2027",
+    "Allowoffline": true
   }
 ]
