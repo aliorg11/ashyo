@@ -250,5 +250,11 @@
     "key": "2KD8Y-CSEAM-RBUT9-M2ZJH",
     "expirydate": "19-06-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "6775a7dbe40bef81",
+    "key": "UWWVQ-NB96L-RH26Y-7959C",
+    "expirydate": "04-06-2027",
+    "Allowoffline": true
   }
 ]
