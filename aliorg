@@ -256,5 +256,11 @@
     "key": "UWWVQ-NB96L-RH26Y-7959C",
     "expirydate": "04-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "ed8afb1a43cbe759",
+    "key": "RDFNC-KF5ZK-X9XDH-CX22F",
+    "expirydate": "04-06-2027",
+    "Allowoffline": true
   }
 ]
