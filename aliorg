@@ -298,5 +298,11 @@
     "key": "BTBHU-QX5RJ-JYM8Y-XH7Y8",
     "expirydate": "04-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "f7380b4c0e363fd8",
+    "key": "SWNKD-S4YX2-6B3XW-ZH4SV",
+    "expirydate": "05-06-2027",
+    "Allowoffline": true
   }
 ]
