@@ -262,5 +262,11 @@
     "key": "RDFNC-KF5ZK-X9XDH-CX22F",
     "expirydate": "04-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "8c5f9eaafdbb127b",
+    "key": "VC7RA-CVBKX-RZ5J9-X3DPL",
+    "expirydate": "04-06-2027",
+    "Allowoffline": true
   }
 ]
