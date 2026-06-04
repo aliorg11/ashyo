@@ -280,5 +280,11 @@
     "key": "WCMUH-VUBW5-8JEKQ-727CC",
     "expirydate": "04-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "1f0385dc95119f34",
+    "key": "AUJV3-T2NN9-7524Y-SXQN5",
+    "expirydate": "04-06-2027",
+    "Allowoffline": true
   }
 ]
