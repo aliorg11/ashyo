@@ -292,5 +292,11 @@
     "key": "TSXAD-SVPXC-RQZ6Q-RYXGM",
     "expirydate": "04-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "54626de15a72f7a7",
+    "key": "BTBHU-QX5RJ-JYM8Y-XH7Y8",
+    "expirydate": "04-06-2027",
+    "Allowoffline": true
   }
 ]
