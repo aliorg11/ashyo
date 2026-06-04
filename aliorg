@@ -274,5 +274,11 @@
     "key": "256Z4-LX8KG-Q6YMK-8EF94",
     "expirydate": "04-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "e95b1e3dcd29112a",
+    "key": "WCMUH-VUBW5-8JEKQ-727CC",
+    "expirydate": "04-06-2027",
+    "Allowoffline": true
   }
 ]
