@@ -286,5 +286,11 @@
     "key": "AUJV3-T2NN9-7524Y-SXQN5",
     "expirydate": "04-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "c48162cfe15088de",
+    "key": "TSXAD-SVPXC-RQZ6Q-RYXGM",
+    "expirydate": "04-06-2027",
+    "Allowoffline": true
   }
 ]
