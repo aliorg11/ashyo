@@ -310,5 +310,11 @@
     "key": "AP6E6-T4LFA-PNG9T-ASZBL",
     "expirydate": "05-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "b7ec95a9a38229e5",
+    "key": "BQHH7-FSCKA-54LMG-DV22T",
+    "expirydate": "06-06-2027",
+    "Allowoffline": true
   }
 ]
