@@ -304,5 +304,11 @@
     "key": "SWNKD-S4YX2-6B3XW-ZH4SV",
     "expirydate": "05-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "b8f2e6c79e8aef38",
+    "key": "AP6E6-T4LFA-PNG9T-ASZBL",
+    "expirydate": "05-06-2027",
+    "Allowoffline": true
   }
 ]
