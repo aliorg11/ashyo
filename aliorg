@@ -322,5 +322,11 @@
     "key": "N57K6-7CUMH-B99GA-A8BCB",
     "expirydate": "06-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "6326af0b962c63d3",
+    "key": "KQ6SS-M8YDF-P4XBS-W689Z",
+    "expirydate": "06-06-2027",
+    "Allowoffline": true
   }
 ]
