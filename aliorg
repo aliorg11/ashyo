@@ -370,5 +370,11 @@
     "key": "Q84AA-E95HS-H7AB4-BZVH2",
     "expirydate": "08-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "271ded3cf215b234",
+    "key": "JB6LB-7H73B-BC5MH-EJZTV",
+    "expirydate": "08-06-2027",
+    "Allowoffline": true
   }
 ]
