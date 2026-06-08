@@ -382,5 +382,11 @@
     "key": "32Y7S-B7AHJ-GQ88V-UGFG3",
     "expirydate": "08-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "3f7a7439cba92c77",
+    "key": "5P8GM-LWTPR-GAU32-CRX5D",
+    "expirydate": "08-06-2027",
+    "Allowoffline": true
   }
 ]
