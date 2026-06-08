@@ -358,5 +358,11 @@
     "key": "AZY7U-KWZLW-S94UP-3M996",
     "expirydate": "08-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "97637ef299a146bb",
+    "key": "Z9BR8-GT39J-VJW27-Y2QCV",
+    "expirydate": "08-06-2027",
+    "Allowoffline": true
   }
 ]
