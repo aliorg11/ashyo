@@ -334,5 +334,11 @@
     "key": "HNQMW-D4XXQ-SME79-8YXK5",
     "expirydate": "08-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "7a3f8f2a9beb6aec",
+    "key": "GWJE5-KDVRJ-R9E2W-7X9SY",
+    "expirydate": "08-06-2027",
+    "Allowoffline": true
   }
 ]
