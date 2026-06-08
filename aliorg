@@ -364,5 +364,11 @@
     "key": "Z9BR8-GT39J-VJW27-Y2QCV",
     "expirydate": "08-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "851ce70cf38742fe",
+    "key": "MWXQ9-WQ5Q5-GA6YQ-ZNM7A",
+    "expirydate": "08-06-2027",
+    "Allowoffline": true
   }
 ]
