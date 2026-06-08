@@ -376,5 +376,11 @@
     "key": "JB6LB-7H73B-BC5MH-EJZTV",
     "expirydate": "08-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "851ce70cf38742fe",
+    "key": "32Y7S-B7AHJ-GQ88V-UGFG3",
+    "expirydate": "08-06-2027",
+    "Allowoffline": true
   }
 ]
