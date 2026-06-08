@@ -352,5 +352,11 @@
     "key": "75893-NAAXQ-XARTX-Y45W7",
     "expirydate": "08-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "f1dd1706aa199a5a",
+    "key": "AZY7U-KWZLW-S94UP-3M996",
+    "expirydate": "08-06-2027",
+    "Allowoffline": true
   }
 ]
