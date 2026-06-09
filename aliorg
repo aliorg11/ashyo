@@ -400,5 +400,11 @@
     "key": "JPKVD-QKL69-WKSB3-NKPUU",
     "expirydate": "09-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "53b0909e9c4803a4",
+    "key": "XQCC9-3TAFX-5BEG7-AW5FD",
+    "expirydate": "09-06-2027",
+    "Allowoffline": true
   }
 ]
