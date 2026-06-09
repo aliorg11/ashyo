@@ -406,5 +406,11 @@
     "key": "XQCC9-3TAFX-5BEG7-AW5FD",
     "expirydate": "09-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "88bc91030f02cb29",
+    "key": "NCWVV-D5ZYP-9N49J-SB3TS",
+    "expirydate": "09-06-2027",
+    "Allowoffline": true
   }
 ]
