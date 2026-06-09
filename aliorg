@@ -394,5 +394,11 @@
     "key": "8CAZH-GSLRC-NX8YS-J5K3W",
     "expirydate": "08-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "42f267d6b170bb3d",
+    "key": "JPKVD-QKL69-WKSB3-NKPUU",
+    "expirydate": "09-06-2027",
+    "Allowoffline": true
   }
 ]
