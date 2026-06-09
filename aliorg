@@ -412,5 +412,11 @@
     "key": "NCWVV-D5ZYP-9N49J-SB3TS",
     "expirydate": "09-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "3ef0c075c15560d5",
+    "key": "DSPAA-89J2Y-94JE4-ZKQ89",
+    "expirydate": "09-06-2027",
+    "Allowoffline": true
   }
 ]
