@@ -424,5 +424,11 @@
     "key": "YH6S6-SALJY-VFE23-SM679",
     "expirydate": "10-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "9bd0cf53620fee5d",
+    "key": "2WMLV-3XTXZ-3U8Z5-YZJKK",
+    "expirydate": "10-06-2027",
+    "Allowoffline": true
   }
 ]
