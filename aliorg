@@ -418,5 +418,11 @@
     "key": "DSPAA-89J2Y-94JE4-ZKQ89",
     "expirydate": "09-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "98a6aa89c1bcfeb4",
+    "key": "YH6S6-SALJY-VFE23-SM679",
+    "expirydate": "10-06-2027",
+    "Allowoffline": true
   }
 ]
