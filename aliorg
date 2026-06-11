@@ -430,5 +430,11 @@
     "key": "2WMLV-3XTXZ-3U8Z5-YZJKK",
     "expirydate": "10-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "f3904c49a4cc164a",
+    "key": "USN2K-UHTP9-RM3LP-9LSRG",
+    "expirydate": "11-06-2027",
+    "Allowoffline": true
   }
 ]
