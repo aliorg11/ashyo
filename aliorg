@@ -442,5 +442,11 @@
     "key": "AR2JX-PHTA7-TG6F2-EQPBQ",
     "expirydate": "11-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "89277f5f2b05aec7",
+    "key": "PCVN8-3KMM5-XG77X-LTAWY",
+    "expirydate": "11-06-2027",
+    "Allowoffline": true
   }
 ]
