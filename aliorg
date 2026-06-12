@@ -508,5 +508,11 @@
     "key": "NGR5B-EQ6PF-R2VSM-V8DSX",
     "expirydate": "12-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "6b2ec7da6c6c686b",
+    "key": "AYZXH-E7RY7-GTMXG-UEYYA",
+    "expirydate": "12-06-2027",
+    "Allowoffline": true
   }
 ]
