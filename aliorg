@@ -484,5 +484,11 @@
     "key": "H76AE-3QLXA-UV977-CMD2W",
     "expirydate": "12-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "ce28a6b299d952a7",
+    "key": "EQLA8-P6W4P-PQMN2-5CBDM",
+    "expirydate": "12-06-2027",
+    "Allowoffline": true
   }
 ]
