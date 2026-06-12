@@ -490,5 +490,11 @@
     "key": "EQLA8-P6W4P-PQMN2-5CBDM",
     "expirydate": "12-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "c669e6820da892bb",
+    "key": "BNNT8-NW6GK-4A5TL-ST6PK",
+    "expirydate": "12-06-2027",
+    "Allowoffline": true
   }
 ]
