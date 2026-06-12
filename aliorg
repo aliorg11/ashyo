@@ -472,5 +472,11 @@
     "key": "C7T34-L6CUG-DTKLY-FX6Z4",
     "expirydate": "12-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "7f22a1047d4437d0",
+    "key": "UYVGT-MR4RK-SSXH8-HVNY4",
+    "expirydate": "12-06-2027",
+    "Allowoffline": true
   }
 ]
