@@ -454,5 +454,11 @@
     "key": "ZEHVB-E7DDK-VUPHA-HDHMG",
     "expirydate": "12-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "b0b7f92e81b84143",
+    "key": "7KGQ7-Q82T5-CZLTM-SCQRY",
+    "expirydate": "12-06-2027",
+    "Allowoffline": true
   }
 ]
