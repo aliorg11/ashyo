@@ -502,5 +502,11 @@
     "key": "E72A5-BC2N5-UDDUZ-X3ZZU",
     "expirydate": "12-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "c4923b7bc7e2fa8c",
+    "key": "NGR5B-EQ6PF-R2VSM-V8DSX",
+    "expirydate": "12-06-2027",
+    "Allowoffline": true
   }
 ]
