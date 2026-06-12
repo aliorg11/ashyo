@@ -448,5 +448,11 @@
     "key": "PCVN8-3KMM5-XG77X-LTAWY",
     "expirydate": "11-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "54e7ced53344ddcf",
+    "key": "ZEHVB-E7DDK-VUPHA-HDHMG",
+    "expirydate": "12-06-2027",
+    "Allowoffline": true
   }
 ]
