@@ -514,5 +514,11 @@
     "key": "AYZXH-E7RY7-GTMXG-UEYYA",
     "expirydate": "12-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "efc034675e3ca6b6",
+    "key": "PTPJM-CTS95-PMLGQ-A53L6",
+    "expirydate": "13-06-2027",
+    "Allowoffline": true
   }
 ]
