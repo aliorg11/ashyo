@@ -520,5 +520,11 @@
     "key": "PTPJM-CTS95-PMLGQ-A53L6",
     "expirydate": "13-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "65d856333aafaa74",
+    "key": "EL5QJ-D6QRB-CTJMC-V6PYP",
+    "expirydate": "13-06-2027",
+    "Allowoffline": true
   }
 ]
