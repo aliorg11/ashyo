@@ -526,5 +526,11 @@
     "key": "EL5QJ-D6QRB-CTJMC-V6PYP",
     "expirydate": "13-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "6ed4a9bf7533f37d",
+    "key": "LPBJ5-CN34Y-RCUJ4-Y2VX2",
+    "expirydate": "14-06-2027",
+    "Allowoffline": true
   }
 ]
