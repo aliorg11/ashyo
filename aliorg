@@ -532,5 +532,11 @@
     "key": "LPBJ5-CN34Y-RCUJ4-Y2VX2",
     "expirydate": "14-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "7b15be4b221bd51e",
+    "key": "QYHM6-GSVTK-5P6EN-764RP",
+    "expirydate": "14-06-2027",
+    "Allowoffline": true
   }
 ]
