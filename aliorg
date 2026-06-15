@@ -544,5 +544,11 @@
     "key": "HZD96-7CSCZ-LQHA7-2QNEQ",
     "expirydate": "15-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "cc865f969f26cacb",
+    "key": "QTUXQ-RNRBL-52C8D-PBQ9R",
+    "expirydate": "15-06-2027",
+    "Allowoffline": true
   }
 ]
