@@ -532,5 +532,11 @@
     "key": "QYHM6-GSVTK-5P6EN-764RP",
     "expirydate": "14-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "bb3acffc6aa6da05",
+    "key": "YQK9M-ZRKTJ-N7TZ2-YWTXS",
+    "expirydate": "15-06-2027",
+    "Allowoffline": true
   }
 ]
