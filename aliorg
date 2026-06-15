@@ -550,5 +550,11 @@
     "key": "QTUXQ-RNRBL-52C8D-PBQ9R",
     "expirydate": "15-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "d84aca61c466b835",
+    "key": "RKDWV-NJYNN-J3CC9-MVKH5",
+    "expirydate": "15-06-2027",
+    "Allowoffline": true
   }
 ]
