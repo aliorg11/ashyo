@@ -556,5 +556,11 @@
     "key": "RKDWV-NJYNN-J3CC9-MVKH5",
     "expirydate": "15-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "f6c0ddbbbda890c5",
+    "key": "C635N-SLQS7-9Y4Q4-ZS823",
+    "expirydate": "15-06-2027",
+    "Allowoffline": true
   }
 ]
