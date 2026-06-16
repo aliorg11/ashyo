@@ -294,12 +294,6 @@
     "Allowoffline": true
   },
   {
-    "device_id": "54626de15a72f7a7",
-    "key": "BTBHU-QX5RJ-JYM8Y-XH7Y8",
-    "expirydate": "04-06-2027",
-    "Allowoffline": true
-  },
-  {
     "device_id": "f7380b4c0e363fd8",
     "key": "SWNKD-S4YX2-6B3XW-ZH4SV",
     "expirydate": "05-06-2027",
@@ -561,12 +555,6 @@
     "device_id": "f6c0ddbbbda890c5",
     "key": "C635N-SLQS7-9Y4Q4-ZS823",
     "expirydate": "15-06-2027",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "01e4fcee9094b986",
-    "key": "T5UQK-MLNR9-AUXYR-GTF3Z",
-    "expirydate": "17-06-2027",
     "Allowoffline": true
   }
 ]
