@@ -562,5 +562,11 @@
     "key": "W6GQW-2GL75-GNL9G-7HSK2",
     "expirydate": "17-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "6c93d9c9c11374d2",
+    "key": "WXLD5-PNGW8-U6T9U-UPBTV",
+    "expirydate": "18-06-2027",
+    "Allowoffline": true
   }
 ]
