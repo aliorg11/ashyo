@@ -574,5 +574,11 @@
     "key": "HF3DR-Q4Q38-MYZME-HMFVJ",
     "expirydate": "18-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "01e4fcee9094b986",
+    "key": "V2FCN-2PKK6-FL9XG-VZRWT",
+    "expirydate": "18-06-2027",
+    "Allowoffline": true
   }
 ]
