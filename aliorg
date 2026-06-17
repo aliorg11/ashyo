@@ -556,5 +556,11 @@
     "key": "C635N-SLQS7-9Y4Q4-ZS823",
     "expirydate": "15-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "417c3a9c97aa5be2",
+    "key": "W6GQW-2GL75-GNL9G-7HSK2",
+    "expirydate": "17-06-2027",
+    "Allowoffline": true
   }
 ]
