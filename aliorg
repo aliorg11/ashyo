@@ -580,5 +580,11 @@
     "key": "V2FCN-2PKK6-FL9XG-VZRWT",
     "expirydate": "18-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "8286daea1ea6054a",
+    "key": "DEQAL-XRC8Q-VXBS7-DWVKH",
+    "expirydate": "19-06-2027",
+    "Allowoffline": true
   }
 ]
