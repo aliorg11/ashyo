@@ -586,5 +586,11 @@
     "key": "DEQAL-XRC8Q-VXBS7-DWVKH",
     "expirydate": "19-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "202256abc7ebe6db",
+    "key": "ZDM44-3LNCZ-NB52D-ZD3JC",
+    "expirydate": "19-06-2027",
+    "Allowoffline": true
   }
 ]
