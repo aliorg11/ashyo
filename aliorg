@@ -592,5 +592,11 @@
     "key": "ZDM44-3LNCZ-NB52D-ZD3JC",
     "expirydate": "19-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "af8c9c5c2f6dbdb7",
+    "key": "MPEB9-LCHH3-RMPML-57J4L",
+    "expirydate": "20-06-2027",
+    "Allowoffline": true
   }
 ]
