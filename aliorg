@@ -610,5 +610,11 @@
     "key": "EGWKE-ZZ93A-HZ3GU-CHJZ5",
     "expirydate": "20-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "5c0a8c34a67469ea",
+    "key": "UBNJX-U5M6D-E8YMG-F6K8F",
+    "expirydate": "21-06-2027",
+    "Allowoffline": true
   }
 ]
