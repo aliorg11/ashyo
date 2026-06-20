@@ -598,5 +598,11 @@
     "key": "ZNBLD-JYUS9-Q93UE-XVTG5",
     "expirydate": "20-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "a3fd7949524cd3a3",
+    "key": "T4FPE-BR64N-Q5S4S-YMM3T",
+    "expirydate": "20-06-2027",
+    "Allowoffline": true
   }
 ]
