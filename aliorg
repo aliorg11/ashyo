@@ -604,5 +604,11 @@
     "key": "T4FPE-BR64N-Q5S4S-YMM3T",
     "expirydate": "20-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "78095113ea9de248",
+    "key": "EGWKE-ZZ93A-HZ3GU-CHJZ5",
+    "expirydate": "20-06-2027",
+    "Allowoffline": true
   }
 ]
