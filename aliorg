@@ -616,5 +616,11 @@
     "key": "UBNJX-U5M6D-E8YMG-F6K8F",
     "expirydate": "21-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "dfc2c7db80dc587c",
+    "key": "8USU4-B42EB-2YUMF-GC742",
+    "expirydate": "21-06-2027",
+    "Allowoffline": true
   }
 ]
