@@ -628,5 +628,11 @@
     "key": "HN38A-J3UDB-6E6HJ-6VNRQ",
     "expirydate": "22-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "6b8d7f465a99079f",
+    "key": "AP7SR-35AHE-J8PGL-ESH7E",
+    "expirydate": "22-06-2027",
+    "Allowoffline": true
   }
 ]
