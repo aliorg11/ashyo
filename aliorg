@@ -616,5 +616,11 @@
     "key": "8USU4-B42EB-2YUMF-GC742",
     "expirydate": "21-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "b54a5f05dcd86cbd",
+    "key": "8FYN9-YAR48-E5384-RCFVL",
+    "expirydate": "22-06-2027",
+    "Allowoffline": true
   }
 ]
