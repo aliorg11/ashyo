@@ -622,5 +622,11 @@
     "key": "8FYN9-YAR48-E5384-RCFVL",
     "expirydate": "22-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "67a82773720fc96b",
+    "key": "HN38A-J3UDB-6E6HJ-6VNRQ",
+    "expirydate": "22-06-2027",
+    "Allowoffline": true
   }
 ]
