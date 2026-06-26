@@ -676,5 +676,11 @@
     "key": "AT3EN-Q6Z3Q-32KWY-XJ2DP",
     "expirydate": "26-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "b781b1587fee1be9",
+    "key": "6HRCS-DV6PW-QVRYF-9ATWC",
+    "expirydate": "27-06-2027",
+    "Allowoffline": true
   }
 ]
