@@ -646,5 +646,11 @@
     "key": "R4TAP-V2CA6-AHDWY-TEPDQ",
     "expirydate": "26-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "e40e2287341f7ac5",
+    "key": "TMEUG-ZP2JX-KELDK-ND9AP",
+    "expirydate": "26-06-2027",
+    "Allowoffline": true
   }
 ]
