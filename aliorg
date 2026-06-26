@@ -682,5 +682,11 @@
     "key": "6HRCS-DV6PW-QVRYF-9ATWC",
     "expirydate": "27-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "d19faf10fcaae6a9",
+    "key": "MAFAA-WRPLZ-PQW78-XLPXE",
+    "expirydate": "27-06-2027",
+    "Allowoffline": true
   }
 ]
