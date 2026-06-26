@@ -652,5 +652,11 @@
     "key": "TMEUG-ZP2JX-KELDK-ND9AP",
     "expirydate": "26-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "969a45d66cf90a7d",
+    "key": "679YV-HXTHF-TXYCL-3CH2C",
+    "expirydate": "26-06-2027",
+    "Allowoffline": true
   }
 ]
