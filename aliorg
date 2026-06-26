@@ -670,5 +670,11 @@
     "key": "YJTGE-ZZ299-7VBFR-NHEW3",
     "expirydate": "26-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "bc89f58b7b69f4a4",
+    "key": "AT3EN-Q6Z3Q-32KWY-XJ2DP",
+    "expirydate": "26-06-2027",
+    "Allowoffline": true
   }
 ]
