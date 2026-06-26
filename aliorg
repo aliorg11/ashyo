@@ -658,5 +658,11 @@
     "key": "679YV-HXTHF-TXYCL-3CH2C",
     "expirydate": "26-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "16bfc7880a683632",
+    "key": "Q7CPG-WNP28-H24EY-NWJRL",
+    "expirydate": "26-06-2027",
+    "Allowoffline": true
   }
 ]
