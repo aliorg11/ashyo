@@ -634,5 +634,11 @@
     "key": "AP7SR-35AHE-J8PGL-ESH7E",
     "expirydate": "22-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "cdfd92f8f6c153cf",
+    "key": "RYW5C-RTGJ8-KTECJ-MFH4P",
+    "expirydate": "26-06-2027",
+    "Allowoffline": true
   }
 ]
