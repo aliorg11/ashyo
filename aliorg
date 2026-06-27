@@ -706,5 +706,11 @@
     "key": "TKSRK-9UCUM-QFGCD-QLWRR",
     "expirydate": "28-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "696e8043ea8f0b07",
+    "key": "BQ29T-DGSA4-C9MWF-S8RVS",
+    "expirydate": "28-06-2027",
+    "Allowoffline": true
   }
 ]
