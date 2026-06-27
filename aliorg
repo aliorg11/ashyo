@@ -694,5 +694,11 @@
     "key": "ZAKYS-A2KLK-FBBMU-7MQ4H",
     "expirydate": "28-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "14135562254554b3",
+    "key": "BFEE5-JFZDW-5YUU7-P989G",
+    "expirydate": "28-06-2027",
+    "Allowoffline": true
   }
 ]
