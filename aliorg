@@ -688,5 +688,11 @@
     "key": "MAFAA-WRPLZ-PQW78-XLPXE",
     "expirydate": "27-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "a94e687516fade0e",
+    "key": "ZAKYS-A2KLK-FBBMU-7MQ4H",
+    "expirydate": "28-06-2027",
+    "Allowoffline": true
   }
 ]
