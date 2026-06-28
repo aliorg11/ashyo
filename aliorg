@@ -736,5 +736,11 @@
     "key": "ZZFB4-DB8P5-2BDSL-NJW9Y",
     "expirydate": "28-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "5a032beb49abea0f",
+    "key": "MFKMF-JS39P-W4QNS-Z6DG7",
+    "expirydate": "28-06-2027",
+    "Allowoffline": true
   }
 ]
