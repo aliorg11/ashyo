@@ -730,5 +730,11 @@
     "key": "NBUWQ-QBC7X-6RM9Z-NSQQA",
     "expirydate": "28-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "7b17c77876a7e8b8",
+    "key": "ZZFB4-DB8P5-2BDSL-NJW9Y",
+    "expirydate": "28-06-2027",
+    "Allowoffline": true
   }
 ]
