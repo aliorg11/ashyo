@@ -724,5 +724,11 @@
     "key": "EV8RS-6L552-ZSHDC-UXMUC",
     "expirydate": "28-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "1f802996f50a8a49",
+    "key": "NBUWQ-QBC7X-6RM9Z-NSQQA",
+    "expirydate": "28-06-2027",
+    "Allowoffline": true
   }
 ]
