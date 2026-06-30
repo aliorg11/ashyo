@@ -790,5 +790,11 @@
     "key": "DEBH9-DHGRY-YDXHK-3V6CW",
     "expirydate": "30-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "90d3b9169a78ab81",
+    "key": "FJTM2-F37SB-879ER-5D9BM",
+    "expirydate": "30-06-2027",
+    "Allowoffline": true
   }
 ]
