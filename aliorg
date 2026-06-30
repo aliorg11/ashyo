@@ -802,5 +802,11 @@
     "key": "VXP9C-AHF8R-TZMLR-WEUC8",
     "expirydate": "30-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "e23f1bb9ad404e51",
+    "key": "8FKY6-UCRJG-MAPXE-YTMRL",
+    "expirydate": "30-06-2027",
+    "Allowoffline": true
   }
 ]
