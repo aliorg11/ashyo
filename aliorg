@@ -832,5 +832,11 @@
     "key": "6NCH8-ZTBE7-TMHDP-VNQY8",
     "expirydate": "30-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "a6dfdef8f3d50fcd",
+    "key": "M6XF8-SVKEY-D9SUY-ATSFB",
+    "expirydate": "01-07-2027",
+    "Allowoffline": true
   }
 ]
