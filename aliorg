@@ -814,5 +814,11 @@
     "key": "JV3Q6-RTBMF-UXWUK-VRYAT",
     "expirydate": "30-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "32d130416439230b",
+    "key": "RWB5H-V7J47-E3M9Y-VV47P",
+    "expirydate": "30-06-2027",
+    "Allowoffline": true
   }
 ]
