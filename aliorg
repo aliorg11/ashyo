@@ -754,5 +754,11 @@
     "key": "ZTT5S-9Z2ET-BE3A6-UUGYK",
     "expirydate": "30-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "5e529a0be13ee6c6",
+    "key": "MRK6D-GAETZ-SKXPZ-WEGHH",
+    "expirydate": "30-06-2027",
+    "Allowoffline": true
   }
 ]
