@@ -778,5 +778,11 @@
     "key": "7Y9BG-GP9R7-X5T6Q-HKBZJ",
     "expirydate": "30-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "944bfb589b71d79f",
+    "key": "GR5G7-69ASN-Z6VG4-ZVDLA",
+    "expirydate": "30-06-2027",
+    "Allowoffline": true
   }
 ]
