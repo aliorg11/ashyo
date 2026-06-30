@@ -766,5 +766,11 @@
     "key": "V432W-DZFHQ-2HRXE-6PFCF",
     "expirydate": "30-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "6b113ac52dd7c983",
+    "key": "8HFTW-4HBWE-L6XTW-HLZDK",
+    "expirydate": "30-06-2027",
+    "Allowoffline": true
   }
 ]
