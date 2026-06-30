@@ -808,5 +808,11 @@
     "key": "8FKY6-UCRJG-MAPXE-YTMRL",
     "expirydate": "30-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "32d130416439230b",
+    "key": "WFFK4-MLH4Q-YV76R-6UK6P",
+    "expirydate": "30-06-2027",
+    "Allowoffline": true
   }
 ]
