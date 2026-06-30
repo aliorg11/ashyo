@@ -796,5 +796,11 @@
     "key": "FJTM2-F37SB-879ER-5D9BM",
     "expirydate": "30-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "e7529f48a7ee042e",
+    "key": "VXP9C-AHF8R-TZMLR-WEUC8",
+    "expirydate": "30-06-2027",
+    "Allowoffline": true
   }
 ]
