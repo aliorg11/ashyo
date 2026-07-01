@@ -844,5 +844,11 @@
     "key": "47LDC-CG4HD-ZL6NK-DQXN3",
     "expirydate": "01-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "01512eb7ae984207",
+    "key": "SS5F7-4ZL5L-UFD55-G2WUD",
+    "expirydate": "02-07-2027",
+    "Allowoffline": true
   }
 ]
