@@ -838,5 +838,11 @@
     "key": "23SWQ-QJ4JH-WADBF-2H57X",
     "expirydate": "01-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "4b018c43eaf5b072",
+    "key": "B3KUV-ATWBS-6DDKB-4HP6U",
+    "expirydate": "01-07-2027",
+    "Allowoffline": true
   }
 ]
