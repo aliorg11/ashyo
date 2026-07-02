@@ -850,5 +850,11 @@
     "key": "SS5F7-4ZL5L-UFD55-G2WUD",
     "expirydate": "02-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "586a7b4c8008c45b",
+    "key": "XCBFY-NQ3LZ-4P9R8-VXY55",
+    "expirydate": "02-07-2027",
+    "Allowoffline": true
   }
 ]
