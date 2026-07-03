@@ -862,5 +862,11 @@
     "key": "YQWS8-LZDM3-D8DJW-3Z5VF",
     "expirydate": "03-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "777fdec631ad3765",
+    "key": "XXSME-HJV5W-CDYLZ-TWM5G",
+    "expirydate": "03-07-2027",
+    "Allowoffline": true
   }
 ]
