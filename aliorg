@@ -880,5 +880,11 @@
     "key": "DRKZ8-XLKVC-YKJGN-A6L5F",
     "expirydate": "03-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "cc0a2d21d503e0f2",
+    "key": "5SYCN-RPQAB-U7ZP8-FGHZE",
+    "expirydate": "03-07-2027",
+    "Allowoffline": true
   }
 ]
