@@ -874,5 +874,11 @@
     "key": "ULLXU-HQZDW-M3YE4-837RJ",
     "expirydate": "03-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "c33bc325bac05173",
+    "key": "DRKZ8-XLKVC-YKJGN-A6L5F",
+    "expirydate": "03-07-2027",
+    "Allowoffline": true
   }
 ]
