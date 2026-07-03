@@ -856,5 +856,11 @@
     "key": "XCBFY-NQ3LZ-4P9R8-VXY55",
     "expirydate": "02-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "4f41b2c7ada57547",
+    "key": "78L23-WNPBN-R6ZKL-J4YJ3",
+    "expirydate": "03-07-2027",
+    "Allowoffline": true
   }
 ]
