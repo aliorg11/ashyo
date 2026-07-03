@@ -868,5 +868,11 @@
     "key": "XXSME-HJV5W-CDYLZ-TWM5G",
     "expirydate": "03-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "d8309e2f268cd049",
+    "key": "ULLXU-HQZDW-M3YE4-837RJ",
+    "expirydate": "03-07-2027",
+    "Allowoffline": true
   }
 ]
