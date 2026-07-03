@@ -886,5 +886,11 @@
     "key": "5SYCN-RPQAB-U7ZP8-FGHZE",
     "expirydate": "03-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "f0b9a4e87f589185",
+    "key": "DE9KP-K3SPY-M2ANU-4G6ZP",
+    "expirydate": "03-07-2027",
+    "Allowoffline": true
   }
 ]
