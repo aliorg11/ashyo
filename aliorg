@@ -910,5 +910,11 @@
     "key": "DXHJM-47UMH-4MNLK-PQUWB",
     "expirydate": "05-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "51098a4767bc56b3",
+    "key": "668GH-QLJ8Z-7FW3Q-JPBRL",
+    "expirydate": "05-07-2027",
+    "Allowoffline": true
   }
 ]
