@@ -810,12 +810,6 @@
     "Allowoffline": true
   },
   {
-    "device_id": "be01e09d0e59f21f",
-    "key": "JV3Q6-RTBMF-UXWUK-VRYAT",
-    "expirydate": "30-06-2027",
-    "Allowoffline": true
-  },
-  {
     "device_id": "32d130416439230b",
     "key": "RWB5H-V7J47-E3M9Y-VV47P",
     "expirydate": "30-06-2027",
@@ -882,6 +876,12 @@
     "Allowoffline": true
   },
   {
+    "device_id": "cc0a2d21d503e0f2",
+    "key": "5SYCN-RPQAB-U7ZP8-FGHZE",
+    "expirydate": "03-07-2027",
+    "Allowoffline": true
+  },
+  {
     "device_id": "f0b9a4e87f589185",
     "key": "DE9KP-K3SPY-M2ANU-4G6ZP",
     "expirydate": "03-07-2027",
@@ -890,12 +890,6 @@
   {
     "device_id": "a34c6e4c4cd48a54",
     "key": "USRGU-5R4G7-VBQLH-YZVVN",
-    "expirydate": "05-07-2027",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "4803f62cc72840f3",
-    "key": "GE9Q3-55CRX-F3TDA-D6FEU",
     "expirydate": "05-07-2027",
     "Allowoffline": true
   }
