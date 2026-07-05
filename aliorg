@@ -892,5 +892,11 @@
     "key": "USRGU-5R4G7-VBQLH-YZVVN",
     "expirydate": "05-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "4803f62cc72840f3",
+    "key": "GE9Q3-55CRX-F3TDA-D6FEU",
+    "expirydate": "05-07-2027",
+    "Allowoffline": true
   }
 ]
