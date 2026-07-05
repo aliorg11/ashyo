@@ -892,5 +892,11 @@
     "key": "DE9KP-K3SPY-M2ANU-4G6ZP",
     "expirydate": "03-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "51098a4767bc56b3",
+    "key": "S9BGD-Y35G6-9APNE-STDQE",
+    "expirydate": "05-07-2027",
+    "Allowoffline": true
   }
 ]
