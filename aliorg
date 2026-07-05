@@ -892,5 +892,11 @@
     "key": "92PCK-EY7PR-PSRL3-C962D",
     "expirydate": "05-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "965340f59197dd61",
+    "key": "G5PZG-WLYJA-KSH6P-U7EXP",
+    "expirydate": "05-07-2027",
+    "Allowoffline": true
   }
 ]
