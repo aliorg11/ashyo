@@ -916,5 +916,11 @@
     "key": "668GH-QLJ8Z-7FW3Q-JPBRL",
     "expirydate": "05-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "4803f62cc72840f3",
+    "key": "QGVC8-DTYNM-X8ACY-Z4WHK",
+    "expirydate": "05-07-2027",
+    "Allowoffline": true
   }
 ]
