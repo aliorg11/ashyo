@@ -898,5 +898,11 @@
     "key": "TJU4M-F3S5T-22B8K-ZZUBF",
     "expirydate": "05-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "965340f59197dd61",
+    "key": "UAXFJ-F5UHA-X97RK-99VAU",
+    "expirydate": "05-07-2027",
+    "Allowoffline": true
   }
 ]
