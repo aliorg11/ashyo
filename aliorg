@@ -928,5 +928,11 @@
     "key": "NFLTY-J7NDN-R9AFA-3G5PN",
     "expirydate": "05-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "6814149bb81940ec",
+    "key": "C2AU8-ZC6VW-5A2W2-QLB4P",
+    "expirydate": "05-07-2027",
+    "Allowoffline": true
   }
 ]
