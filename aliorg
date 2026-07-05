@@ -904,5 +904,11 @@
     "key": "UAXFJ-F5UHA-X97RK-99VAU",
     "expirydate": "05-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "bccde1e06872c07b",
+    "key": "DXHJM-47UMH-4MNLK-PQUWB",
+    "expirydate": "05-07-2027",
+    "Allowoffline": true
   }
 ]
