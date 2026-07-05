@@ -922,5 +922,11 @@
     "key": "ZN95U-Y3P5G-AUBNZ-6GVUQ",
     "expirydate": "05-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "f067b30509c2b1a0",
+    "key": "NFLTY-J7NDN-R9AFA-3G5PN",
+    "expirydate": "05-07-2027",
+    "Allowoffline": true
   }
 ]
