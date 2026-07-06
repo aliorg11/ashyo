@@ -934,5 +934,11 @@
     "key": "C2AU8-ZC6VW-5A2W2-QLB4P",
     "expirydate": "05-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "a78e5e03e6c2f7b4",
+    "key": "QV2LX-PW5WL-7XZFA-GHLUJ",
+    "expirydate": "06-07-2027",
+    "Allowoffline": true
   }
 ]
