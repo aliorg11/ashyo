@@ -946,5 +946,11 @@
     "key": "RJ8CT-D4M5X-ZYNNY-PAS53",
     "expirydate": "06-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "31be595758a6cf8c",
+    "key": "XURYL-FXDAP-PV254-6JDY9",
+    "expirydate": "06-07-2027",
+    "Allowoffline": true
   }
 ]
