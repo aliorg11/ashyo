@@ -940,5 +940,11 @@
     "key": "CE9SY-NL5HF-95HEA-DBDP7",
     "expirydate": "06-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "4d7abdf2da65f243",
+    "key": "RJ8CT-D4M5X-ZYNNY-PAS53",
+    "expirydate": "06-07-2027",
+    "Allowoffline": true
   }
 ]
