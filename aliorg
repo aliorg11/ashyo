@@ -952,5 +952,11 @@
     "key": "XURYL-FXDAP-PV254-6JDY9",
     "expirydate": "06-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "4404b81537acc3df",
+    "key": "UM2QF-YKNLX-XABZF-39UWK",
+    "expirydate": "06-07-2027",
+    "Allowoffline": true
   }
 ]
