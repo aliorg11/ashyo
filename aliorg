@@ -970,5 +970,11 @@
     "key": "NR4V8-NY8FF-W7K55-9MX9E",
     "expirydate": "07-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "505ff2d63e1131fb",
+    "key": "PLVE6-7FAWZ-KQTNG-7WL5R",
+    "expirydate": "07-07-2027",
+    "Allowoffline": true
   }
 ]
