@@ -964,5 +964,11 @@
     "key": "N6REW-K2KYX-469GW-F4VG2",
     "expirydate": "06-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "46261702636c716a",
+    "key": "NR4V8-NY8FF-W7K55-9MX9E",
+    "expirydate": "07-07-2027",
+    "Allowoffline": true
   }
 ]
