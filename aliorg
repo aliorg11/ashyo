@@ -988,5 +988,11 @@
     "key": "BHTQC-6B24Q-RTG78-PYJR5",
     "expirydate": "08-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "5ba68cc895fae6eb",
+    "key": "SGH5M-KW5VQ-7DCP7-QX6NP",
+    "expirydate": "08-07-2027",
+    "Allowoffline": true
   }
 ]
