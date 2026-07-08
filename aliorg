@@ -982,5 +982,11 @@
     "key": "CQWDE-AHAY7-MYN2A-RXM7A",
     "expirydate": "07-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "b6e8e5b389f5ce7b",
+    "key": "BHTQC-6B24Q-RTG78-PYJR5",
+    "expirydate": "08-07-2027",
+    "Allowoffline": true
   }
 ]
