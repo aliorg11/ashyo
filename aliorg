@@ -994,5 +994,11 @@
     "key": "9E9JS-6RTUA-KRJWQ-TBGBP",
     "expirydate": "08-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "ed3b2667f7d77766",
+    "key": "T2ZEP-Z5JKD-EJR5E-A4R57",
+    "expirydate": "08-07-2027",
+    "Allowoffline": true
   }
 ]
