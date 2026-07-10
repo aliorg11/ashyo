@@ -1006,5 +1006,11 @@
     "key": "D76FW-S7NNA-M9E5Q-GK56V",
     "expirydate": "08-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "5c978b2e211549e2",
+    "key": "CWRG4-BYJM5-EN4K9-NN6EV",
+    "expirydate": "11-07-2027",
+    "Allowoffline": true
   }
 ]
