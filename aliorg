@@ -1024,5 +1024,11 @@
     "key": "XR4YJ-K946J-VK34D-CEZ8E",
     "expirydate": "11-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "5ba68cc895fae6eb",
+    "key": "5HNXA-N3RLZ-ARJTV-DNB4R",
+    "expirydate": "11-07-2027",
+    "Allowoffline": true
   }
 ]
