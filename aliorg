@@ -1048,5 +1048,11 @@
     "key": "F6VC5-B9CR8-F6THM-5KK7M",
     "expirydate": "12-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "0768b696af1d802f",
+    "key": "HPZLM-M7TCH-7R4XW-QMEVJ",
+    "expirydate": "12-07-2027",
+    "Allowoffline": true
   }
 ]
