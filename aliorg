@@ -1030,5 +1030,11 @@
     "key": "5HNXA-N3RLZ-ARJTV-DNB4R",
     "expirydate": "11-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "812fe6f5bf62b17f",
+    "key": "99PQW-J2QXN-4LU4Q-MGGSG",
+    "expirydate": "12-07-2027",
+    "Allowoffline": true
   }
 ]
