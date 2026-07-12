@@ -1066,5 +1066,11 @@
     "key": "UBHDC-X7JX8-KADD8-V89BZ",
     "expirydate": "12-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "fb2f188a54d9a12f",
+    "key": "PDW26-BGJUG-A5FA7-YGPMG",
+    "expirydate": "12-07-2027",
+    "Allowoffline": true
   }
 ]
