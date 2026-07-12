@@ -1084,5 +1084,11 @@
     "key": "SJ3R7-QYGDT-RPC3F-4HPBR",
     "expirydate": "12-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "5175d932045a30ab",
+    "key": "S8SH7-SY2PJ-MLG8N-6RLXR",
+    "expirydate": "13-07-2027",
+    "Allowoffline": true
   }
 ]
