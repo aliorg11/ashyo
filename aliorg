@@ -1072,5 +1072,11 @@
     "key": "Y2H6B-CRQET-H928R-FN339",
     "expirydate": "12-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "095c86f9385b26dd",
+    "key": "QC9UD-AJ92L-V9JAT-4ZU7R",
+    "expirydate": "12-07-2027",
+    "Allowoffline": true
   }
 ]
