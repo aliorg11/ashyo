@@ -1096,5 +1096,11 @@
     "key": "YME9J-52AA7-PRDEY-5R4RS",
     "expirydate": "14-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "13824d23c53cdd84",
+    "key": "436DW-WJZAP-TC8TR-GA5LW",
+    "expirydate": "15-07-2027",
+    "Allowoffline": true
   }
 ]
