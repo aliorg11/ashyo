@@ -1102,5 +1102,11 @@
     "key": "436DW-WJZAP-TC8TR-GA5LW",
     "expirydate": "15-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "b91ed4e43578a4dc",
+    "key": "KW9Q5-74PGT-ASU7N-UYUML",
+    "expirydate": "15-07-2027",
+    "Allowoffline": true
   }
 ]
