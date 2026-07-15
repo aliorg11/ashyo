@@ -1108,5 +1108,11 @@
     "key": "KW9Q5-74PGT-ASU7N-UYUML",
     "expirydate": "15-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "b8d8c9ad321447dc",
+    "key": "A4L9D-6YTSQ-5RC96-N4GCN",
+    "expirydate": "15-07-2027",
+    "Allowoffline": true
   }
 ]
