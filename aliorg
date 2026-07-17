@@ -1120,5 +1120,11 @@
     "key": "V64EL-PLYGD-EU86A-Q94TD",
     "expirydate": "15-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "3d734315d8fc18f4",
+    "key": "56CQP-WYESR-XYAR4-FRGUG",
+    "expirydate": "17-07-2027",
+    "Allowoffline": true
   }
 ]
