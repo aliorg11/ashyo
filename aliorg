@@ -1132,5 +1132,11 @@
     "key": "DVNPG-PAG6X-7YDA6-FXETJ",
     "expirydate": "19-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "06e0126dbf714f0e",
+    "key": "FSU8G-AKRUL-Z9M2C-5CV7S",
+    "expirydate": "19-07-2027",
+    "Allowoffline": true
   }
 ]
