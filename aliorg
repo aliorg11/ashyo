@@ -1132,5 +1132,11 @@
     "key": "L8DZK-EFYG7-8SKNK-45RMK",
     "expirydate": "19-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "0b7f210eb568e567",
+    "key": "Z99G3-765MB-ME2PH-6VSPU",
+    "expirydate": "02-08-2026",
+    "Allowoffline": true
   }
 ]
