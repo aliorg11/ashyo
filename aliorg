@@ -1144,5 +1144,11 @@
     "key": "J8RGY-XRNCS-MMS6Y-L3RAD",
     "expirydate": "26-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "025c821bda2cf45b",
+    "key": "6HN4E-DZ624-2G762-DNZHP",
+    "expirydate": "26-07-2027",
+    "Allowoffline": true
   }
 ]
