@@ -1150,5 +1150,11 @@
     "key": "6HN4E-DZ624-2G762-DNZHP",
     "expirydate": "26-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "53289d409f0b4213",
+    "key": "FKBYD-SD28T-XSDDP-GK4Q6",
+    "expirydate": "26-07-2027",
+    "Allowoffline": true
   }
 ]
