@@ -1156,5 +1156,11 @@
     "key": "FKBYD-SD28T-XSDDP-GK4Q6",
     "expirydate": "26-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "092b8d5b188646e0",
+    "key": "F3QQD-WRLSZ-SN9WX-6MXPP",
+    "expirydate": "26-07-2027",
+    "Allowoffline": true
   }
 ]
