@@ -1174,5 +1174,11 @@
     "key": "JNPVN-6PH63-VWW4Z-W6NCK",
     "expirydate": "29-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "0ec55be5580d5cf5",
+    "key": "3KBG7-V859L-H2S2S-NXWXS",
+    "expirydate": "29-07-2027",
+    "Allowoffline": true
   }
 ]
