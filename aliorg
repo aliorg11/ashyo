@@ -1180,5 +1180,11 @@
     "key": "K9XHH-3L7SW-SYFP6-WMYPV",
     "expirydate": "29-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "0d63d930c0c6d5b5",
+    "key": "DNVUZ-K8BZU-DLEGE-G5E5Z",
+    "expirydate": "29-07-2027",
+    "Allowoffline": true
   }
 ]
