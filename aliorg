@@ -1192,5 +1192,11 @@
     "key": "K7GTE-RS2KG-J9NM5-RXFXR",
     "expirydate": "29-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "5af6959dbb3eea61",
+    "key": "5FFD3-ZZAPT-CP262-SWVM8",
+    "expirydate": "29-07-2027",
+    "Allowoffline": true
   }
 ]
