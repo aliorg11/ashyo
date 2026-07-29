@@ -1186,5 +1186,11 @@
     "key": "TYCV7-NSBNR-TCSJ6-UWR52",
     "expirydate": "29-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "00573dfdc276f3af",
+    "key": "K7GTE-RS2KG-J9NM5-RXFXR",
+    "expirydate": "29-07-2027",
+    "Allowoffline": true
   }
 ]
