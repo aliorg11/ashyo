@@ -1168,5 +1168,11 @@
     "key": "FR8HN-NP6VS-JMH5T-62STJ",
     "expirydate": "28-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "f23a1abf4bd4b9e4",
+    "key": "9T665-GG9DG-FDZPF-VCLCP",
+    "expirydate": "29-07-2027",
+    "Allowoffline": true
   }
 ]
