@@ -1198,5 +1198,11 @@
     "key": "5FFD3-ZZAPT-CP262-SWVM8",
     "expirydate": "29-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "7703bef670cca4af",
+    "key": "X39BC-F9D5G-ECW3C-R5W72",
+    "expirydate": "30-07-2027",
+    "Allowoffline": true
   }
 ]
