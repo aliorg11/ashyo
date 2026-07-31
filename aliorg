@@ -1210,5 +1210,11 @@
     "key": "FLCMV-8HM6S-MVULU-HZHHB",
     "expirydate": "31-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "678a8074ae469317",
+    "key": "AGQH7-AR3JS-Z6PRS-7MM9P",
+    "expirydate": "31-07-2027",
+    "Allowoffline": true
   }
 ]
