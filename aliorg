@@ -1204,5 +1204,11 @@
     "key": "X39BC-F9D5G-ECW3C-R5W72",
     "expirydate": "30-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "2628413ec28834c0",
+    "key": "FLCMV-8HM6S-MVULU-HZHHB",
+    "expirydate": "31-07-2027",
+    "Allowoffline": true
   }
 ]
