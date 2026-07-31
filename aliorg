@@ -1216,5 +1216,11 @@
     "key": "AGQH7-AR3JS-Z6PRS-7MM9P",
     "expirydate": "31-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "96689fd43651939d",
+    "key": "MYZEC-7VRBN-3X45P-MS2GU",
+    "expirydate": "31-07-2027",
+    "Allowoffline": true
   }
 ]
