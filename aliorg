@@ -1222,5 +1222,11 @@
     "key": "MYZEC-7VRBN-3X45P-MS2GU",
     "expirydate": "31-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "7e2b9a6f76c61b1d",
+    "key": "63CL3-X76LW-TYCS6-SQ6NQ",
+    "expirydate": "31-07-2027",
+    "Allowoffline": true
   }
 ]
