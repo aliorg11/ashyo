@@ -1234,5 +1234,11 @@
     "key": "YBMW8-P3W59-V7G2T-87C56",
     "expirydate": "01-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "8439d25d5e16665b",
+    "key": "UHP7J-6VBBP-RS9AC-5FXTZ",
+    "expirydate": "01-08-2027",
+    "Allowoffline": true
   }
 ]
