@@ -1228,5 +1228,11 @@
     "key": "63CL3-X76LW-TYCS6-SQ6NQ",
     "expirydate": "31-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "fa02397bb19e2d90",
+    "key": "YBMW8-P3W59-V7G2T-87C56",
+    "expirydate": "01-08-2027",
+    "Allowoffline": true
   }
 ]
