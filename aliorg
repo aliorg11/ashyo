@@ -1252,5 +1252,11 @@
     "key": "22KXT-UQRJB-WWKFY-UYWW9",
     "expirydate": "02-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "12160d45aa4ec1b8",
+    "key": "54QKS-GTAB8-NW3JA-999C2",
+    "expirydate": "02-08-2027",
+    "Allowoffline": true
   }
 ]
