@@ -1240,5 +1240,11 @@
     "key": "UHP7J-6VBBP-RS9AC-5FXTZ",
     "expirydate": "01-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "5724b31159770c1e",
+    "key": "6ZPWA-LD7A4-ZFYXV-KYSW2",
+    "expirydate": "02-08-2027",
+    "Allowoffline": true
   }
 ]
