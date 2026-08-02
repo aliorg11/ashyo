@@ -1246,5 +1246,11 @@
     "key": "6ZPWA-LD7A4-ZFYXV-KYSW2",
     "expirydate": "02-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "3c8f09b7898c89de",
+    "key": "22KXT-UQRJB-WWKFY-UYWW9",
+    "expirydate": "02-08-2027",
+    "Allowoffline": true
   }
 ]
