@@ -1258,5 +1258,11 @@
     "key": "54QKS-GTAB8-NW3JA-999C2",
     "expirydate": "02-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "a84f886c1e11680a",
+    "key": "QECZX-P64AE-PM6PP-PFPY7",
+    "expirydate": "04-08-2027",
+    "Allowoffline": true
   }
 ]
