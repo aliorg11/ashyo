@@ -1264,5 +1264,11 @@
     "key": "QECZX-P64AE-PM6PP-PFPY7",
     "expirydate": "04-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "542576b593589d71",
+    "key": "KBE66-DAJUE-CGK6S-ZY6ER",
+    "expirydate": "04-08-2027",
+    "Allowoffline": true
   }
 ]
