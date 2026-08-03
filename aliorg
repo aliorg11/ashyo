@@ -1264,5 +1264,11 @@
     "key": "KBE66-DAJUE-CGK6S-ZY6ER",
     "expirydate": "04-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "2d94a79b67ee8fa9",
+    "key": "82Q6Y-4XF6M-KV9LL-S8T6W",
+    "expirydate": "04-08-2027",
+    "Allowoffline": true
   }
 ]
