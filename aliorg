@@ -1306,5 +1306,11 @@
     "key": "Y994U-N3FTJ-4V8NK-PYBH9",
     "expirydate": "06-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "cabf624fb1ee95d2",
+    "key": "WDQW6-9X6GK-LB5ZL-4EUHT",
+    "expirydate": "07-08-2027",
+    "Allowoffline": true
   }
 ]
