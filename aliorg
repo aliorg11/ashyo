@@ -1288,5 +1288,11 @@
     "key": "WMD2F-PPDE5-V42C3-A7V8M",
     "expirydate": "06-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "8b1d818b04cfd934",
+    "key": "28ZG9-DRD5G-N9BKM-GFTAE",
+    "expirydate": "06-08-2027",
+    "Allowoffline": true
   }
 ]
