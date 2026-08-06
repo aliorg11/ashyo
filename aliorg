@@ -1282,5 +1282,11 @@
     "key": "UQFNE-7EL4D-KUMKA-EHCSP",
     "expirydate": "06-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "3c24b727d92a46e2",
+    "key": "WMD2F-PPDE5-V42C3-A7V8M",
+    "expirydate": "06-08-2027",
+    "Allowoffline": true
   }
 ]
