@@ -1294,5 +1294,11 @@
     "key": "K5CRS-8A8RN-HG7XE-GK99F",
     "expirydate": "06-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "25a9aa0d0b62807a",
+    "key": "FZ3HJ-ZXRC8-U4JHB-BQW8N",
+    "expirydate": "06-08-2027",
+    "Allowoffline": true
   }
 ]
