@@ -1276,5 +1276,11 @@
     "key": "7NJKQ-496NR-GQJC8-XR9F4",
     "expirydate": "04-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "7cfda6fcebf296de",
+    "key": "UQFNE-7EL4D-KUMKA-EHCSP",
+    "expirydate": "06-08-2027",
+    "Allowoffline": true
   }
 ]
