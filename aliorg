@@ -1336,5 +1336,11 @@
     "key": "XW2KQ-KPAJA-G4HD7-FEPJL",
     "expirydate": "07-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "0988c4aff399996b",
+    "key": "FNX9C-D86BK-Q9UMG-T9LGM",
+    "expirydate": "07-08-2027",
+    "Allowoffline": true
   }
 ]
