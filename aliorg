@@ -1312,5 +1312,11 @@
     "key": "VVBLU-KEPQ2-2ZPBN-RQA3L",
     "expirydate": "07-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "05d5f4a391acef27",
+    "key": "9TXTG-HGL9A-VF6G6-G6KWG",
+    "expirydate": "07-08-2027",
+    "Allowoffline": true
   }
 ]
