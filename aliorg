@@ -1318,5 +1318,11 @@
     "key": "9TXTG-HGL9A-VF6G6-G6KWG",
     "expirydate": "07-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "cabf624fb1ee95d2",
+    "key": "4SFWP-JKZE9-JXJA3-EDLVK",
+    "expirydate": "07-08-2027",
+    "Allowoffline": true
   }
 ]
