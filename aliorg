@@ -1330,5 +1330,11 @@
     "key": "EBVMP-SC4HP-JKF85-R8X7S",
     "expirydate": "07-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "01808a90a0d546c0",
+    "key": "XW2KQ-KPAJA-G4HD7-FEPJL",
+    "expirydate": "07-08-2027",
+    "Allowoffline": true
   }
 ]
