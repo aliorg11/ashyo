@@ -1342,5 +1342,11 @@
     "key": "FNX9C-D86BK-Q9UMG-T9LGM",
     "expirydate": "07-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "3e77299649adacd2",
+    "key": "JLAW4-CUTAU-PGD7T-N8SKK",
+    "expirydate": "08-08-2027",
+    "Allowoffline": true
   }
 ]
