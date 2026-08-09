@@ -1348,5 +1348,11 @@
     "key": "JLAW4-CUTAU-PGD7T-N8SKK",
     "expirydate": "08-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "70bf1e9bba93ce9b",
+    "key": "G7A9E-FJ5VG-ET82J-8DGR6",
+    "expirydate": "10-08-2027",
+    "Allowoffline": true
   }
 ]
