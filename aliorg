@@ -1366,5 +1366,11 @@
     "key": "QGFSP-7SHZ3-KVNB9-NQZR8",
     "expirydate": "11-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "e0a943e372113b34",
+    "key": "NRA5Z-2Z72U-U4RPY-T4AX8",
+    "expirydate": "11-08-2027",
+    "Allowoffline": true
   }
 ]
