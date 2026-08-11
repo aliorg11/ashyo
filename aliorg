@@ -1378,5 +1378,11 @@
     "key": "26Z6U-C99LF-QGPFC-QH2LY",
     "expirydate": "11-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "6f323a9f65128f0b",
+    "key": "CEGXL-9ZVTT-U3VKM-EGQEE",
+    "expirydate": "11-08-2027",
+    "Allowoffline": true
   }
 ]
