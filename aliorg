@@ -1384,5 +1384,11 @@
     "key": "CEGXL-9ZVTT-U3VKM-EGQEE",
     "expirydate": "11-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "950e238db998981c",
+    "key": "T8C36-2W4S3-HAUP6-A2RPV",
+    "expirydate": "11-08-2027",
+    "Allowoffline": true
   }
 ]
