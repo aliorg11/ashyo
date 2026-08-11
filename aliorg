@@ -1372,5 +1372,11 @@
     "key": "NRA5Z-2Z72U-U4RPY-T4AX8",
     "expirydate": "11-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "263d2db40a20f088",
+    "key": "26Z6U-C99LF-QGPFC-QH2LY",
+    "expirydate": "11-08-2027",
+    "Allowoffline": true
   }
 ]
