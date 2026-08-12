@@ -1390,5 +1390,11 @@
     "key": "T8C36-2W4S3-HAUP6-A2RPV",
     "expirydate": "11-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "113db7a560c33076",
+    "key": "6AJT5-3RNFL-JD87T-DC2DC",
+    "expirydate": "12-08-2027",
+    "Allowoffline": true
   }
 ]
