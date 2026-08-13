@@ -1396,5 +1396,11 @@
     "key": "6AJT5-3RNFL-JD87T-DC2DC",
     "expirydate": "12-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "33c865403f1f6644",
+    "key": "4XEH4-TZ4XJ-U3HTE-Q8ETK",
+    "expirydate": "14-08-2027",
+    "Allowoffline": true
   }
 ]
