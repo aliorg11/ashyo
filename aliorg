@@ -1402,5 +1402,11 @@
     "key": "4XEH4-TZ4XJ-U3HTE-Q8ETK",
     "expirydate": "14-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "1e2b20ec2064afdd",
+    "key": "VBDSK-9CS79-UHV8N-UF929",
+    "expirydate": "14-08-2027",
+    "Allowoffline": true
   }
 ]
