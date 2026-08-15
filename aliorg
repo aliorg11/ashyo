@@ -1408,5 +1408,11 @@
     "key": "VBDSK-9CS79-UHV8N-UF929",
     "expirydate": "14-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "af73b548ca053215",
+    "key": "MR2MV-R8V6A-RF3PW-E38E2",
+    "expirydate": "15-08-2027",
+    "Allowoffline": true
   }
 ]
