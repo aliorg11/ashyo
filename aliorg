@@ -1426,5 +1426,11 @@
     "key": "3ERFA-3HETF-N285M-NX5HD",
     "expirydate": "16-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "34095378672abe44",
+    "key": "GWYSU-KJ4BQ-SBVLP-AKWQC",
+    "expirydate": "16-08-2027",
+    "Allowoffline": true
   }
 ]
