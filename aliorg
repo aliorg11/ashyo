@@ -1414,5 +1414,11 @@
     "key": "MR2MV-R8V6A-RF3PW-E38E2",
     "expirydate": "15-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "ca8789814f5dead8",
+    "key": "W3HNV-3N2NG-UB4RK-M2KBQ",
+    "expirydate": "16-08-2027",
+    "Allowoffline": true
   }
 ]
