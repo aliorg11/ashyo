@@ -1432,5 +1432,11 @@
     "key": "GWYSU-KJ4BQ-SBVLP-AKWQC",
     "expirydate": "16-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "ce18e065c65886c7",
+    "key": "LJCG5-HD3M7-C5MB3-AN7GP",
+    "expirydate": "17-08-2027",
+    "Allowoffline": true
   }
 ]
