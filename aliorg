@@ -1438,5 +1438,11 @@
     "key": "LJCG5-HD3M7-C5MB3-AN7GP",
     "expirydate": "17-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "7f8b1e46603d002b",
+    "key": "RJH85-TUN3F-8ATFL-XQ5AP",
+    "expirydate": "19-08-2027",
+    "Allowoffline": true
   }
 ]
