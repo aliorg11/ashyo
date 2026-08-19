@@ -1444,5 +1444,11 @@
     "key": "RJH85-TUN3F-8ATFL-XQ5AP",
     "expirydate": "19-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "54faeed7306a4175",
+    "key": "ZRJ56-DYMBN-9DFQC-QUEDQ",
+    "expirydate": "19-08-2027",
+    "Allowoffline": true
   }
 ]
