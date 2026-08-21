@@ -1462,5 +1462,11 @@
     "key": "BS9VX-8964Q-3KH8K-NFAAS",
     "expirydate": "21-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "dc1da3463d487769",
+    "key": "4PPKK-3FVR2-SXMKM-RJA6H",
+    "expirydate": "21-08-2027",
+    "Allowoffline": true
   }
 ]
