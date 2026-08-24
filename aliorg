@@ -1474,5 +1474,11 @@
     "key": "FXQDX-PSSFP-QSUMM-RHU7G",
     "expirydate": "23-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "1576e448a08e841c",
+    "key": "UD7SD-S5J7N-GB6MC-FEWAJ",
+    "expirydate": "24-08-2027",
+    "Allowoffline": true
   }
 ]
