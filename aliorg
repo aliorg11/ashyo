@@ -1480,5 +1480,11 @@
     "key": "UD7SD-S5J7N-GB6MC-FEWAJ",
     "expirydate": "24-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "a3966014cc4845b4",
+    "key": "Y87S2-6GS6F-FM7QJ-RHSDQ",
+    "expirydate": "24-08-2027",
+    "Allowoffline": true
   }
 ]
