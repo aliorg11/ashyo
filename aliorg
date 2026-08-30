@@ -1492,5 +1492,11 @@
     "key": "S3PQN-X9ZSD-XRLCN-MHY9E",
     "expirydate": "30-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "6e1204c6c0813416",
+    "key": "5KNTZ-383LR-EMJWJ-ULQ84",
+    "expirydate": "30-08-2027",
+    "Allowoffline": true
   }
 ]
