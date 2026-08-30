@@ -1486,5 +1486,11 @@
     "key": "WV6QE-7XWAV-J3BAX-RS82J",
     "expirydate": "26-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "4f34afcace912ae7",
+    "key": "S3PQN-X9ZSD-XRLCN-MHY9E",
+    "expirydate": "30-08-2027",
+    "Allowoffline": true
   }
 ]
