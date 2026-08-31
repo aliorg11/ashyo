@@ -1492,5 +1492,11 @@
     "key": "5KNTZ-383LR-EMJWJ-ULQ84",
     "expirydate": "30-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "e9b5ccaa38344aeb",
+    "key": "2U528-G4HL9-QUAFZ-8SCSY",
+    "expirydate": "31-08-2027",
+    "Allowoffline": true
   }
 ]
