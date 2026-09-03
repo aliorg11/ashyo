@@ -1510,5 +1510,11 @@
     "key": "472VX-MF2F2-PUBDZ-LJSPV",
     "expirydate": "01-09-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "a33778fbeeff4133",
+    "key": "GZWVA-4PGQA-QC5NF-AHYTN",
+    "expirydate": "03-09-2027",
+    "Allowoffline": true
   }
 ]
