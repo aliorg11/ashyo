@@ -1522,5 +1522,11 @@
     "key": "NDFTT-JTREJ-2CRMG-7KV49",
     "expirydate": "04-09-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "47cd6a57f79f04f5",
+    "key": "WMA52-DC7H4-HR4GZ-ANWNL",
+    "expirydate": "04-09-2027",
+    "Allowoffline": true
   }
 ]
