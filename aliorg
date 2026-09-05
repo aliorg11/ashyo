@@ -1522,5 +1522,11 @@
     "key": "WMA52-DC7H4-HR4GZ-ANWNL",
     "expirydate": "04-09-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "a57a096091b2421e",
+    "key": "DLM7W-UMVCV-DB632-U9HFS",
+    "expirydate": "05-09-2027",
+    "Allowoffline": true
   }
 ]
