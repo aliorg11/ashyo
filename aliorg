@@ -1552,5 +1552,11 @@
     "key": "U5MG3-HSNFV-77253-WRRLT",
     "expirydate": "09-09-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "55f75d36532fecc8",
+    "key": "HXNYS-CDV5S-ZJWT9-MADYY",
+    "expirydate": "09-09-2027",
+    "Allowoffline": true
   }
 ]
