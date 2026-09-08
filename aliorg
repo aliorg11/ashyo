@@ -1540,5 +1540,11 @@
     "key": "FNLN6-D99MJ-WD5DT-JS5YS",
     "expirydate": "08-09-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "9f8e563f4842dcc1",
+    "key": "JYE6C-QEDPB-AVLVG-AFDWB",
+    "expirydate": "08-09-2027",
+    "Allowoffline": true
   }
 ]
