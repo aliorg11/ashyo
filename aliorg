@@ -1528,5 +1528,11 @@
     "key": "DLM7W-UMVCV-DB632-U9HFS",
     "expirydate": "05-09-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "4946d862c779b7b9",
+    "key": "KWM7F-EVQ2B-RMTHR-9NK3M",
+    "expirydate": "08-09-2027",
+    "Allowoffline": true
   }
 ]
