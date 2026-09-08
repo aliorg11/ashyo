@@ -1546,5 +1546,11 @@
     "key": "JYE6C-QEDPB-AVLVG-AFDWB",
     "expirydate": "08-09-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "ee402ac4e01e7bf9",
+    "key": "U5MG3-HSNFV-77253-WRRLT",
+    "expirydate": "09-09-2027",
+    "Allowoffline": true
   }
 ]
