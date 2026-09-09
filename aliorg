@@ -1558,5 +1558,11 @@
     "key": "HXNYS-CDV5S-ZJWT9-MADYY",
     "expirydate": "09-09-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "4415f66831d560d3",
+    "key": "S3FSD-HQ4AW-PGDEN-92DJB",
+    "expirydate": "09-09-2027",
+    "Allowoffline": true
   }
 ]
