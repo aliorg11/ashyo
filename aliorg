@@ -1564,5 +1564,11 @@
     "key": "S3FSD-HQ4AW-PGDEN-92DJB",
     "expirydate": "09-09-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "9a949f8f2af53c9d",
+    "key": "A8JJZ-JLXCX-XR985-CSYDN",
+    "expirydate": "10-09-2027",
+    "Allowoffline": true
   }
 ]
