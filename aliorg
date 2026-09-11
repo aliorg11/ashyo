@@ -1576,5 +1576,11 @@
     "key": "XZGQF-CDHZT-9B5R5-HMFVX",
     "expirydate": "11-09-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "28a693e1af864740",
+    "key": "4KA9D-VS7RQ-VS5XB-7VU5P",
+    "expirydate": "11-09-2027",
+    "Allowoffline": true
   }
 ]
