@@ -1570,5 +1570,11 @@
     "key": "A8JJZ-JLXCX-XR985-CSYDN",
     "expirydate": "10-09-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "6a1688ca2d36e41d",
+    "key": "9L6KR-M32W5-3FRRM-N3KZ2",
+    "expirydate": "11-09-2027",
+    "Allowoffline": true
   }
 ]
