@@ -1588,5 +1588,11 @@
     "key": "XYW72-38JY4-FYCQ3-FLTTQ",
     "expirydate": "11-09-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "2218d4719ccd2952",
+    "key": "AGR3B-CLL9K-9D6D9-M746C",
+    "expirydate": "12-09-2027",
+    "Allowoffline": true
   }
 ]
