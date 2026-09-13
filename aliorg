@@ -1600,5 +1600,11 @@
     "key": "N6767-QB6EH-Q5K3L-6EZTH",
     "expirydate": "13-09-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "46927870718530c4",
+    "key": "MLF7Y-MCUY3-LYYTW-HA3SM",
+    "expirydate": "13-09-2027",
+    "Allowoffline": true
   }
 ]
