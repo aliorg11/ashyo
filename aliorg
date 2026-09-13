@@ -1594,5 +1594,11 @@
     "key": "AGR3B-CLL9K-9D6D9-M746C",
     "expirydate": "12-09-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "aec5405ce539d94d",
+    "key": "N6767-QB6EH-Q5K3L-6EZTH",
+    "expirydate": "13-09-2027",
+    "Allowoffline": true
   }
 ]
