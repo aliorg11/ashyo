@@ -1618,5 +1618,11 @@
     "key": "GKRRM-6SEHA-9AK67-TP3XS",
     "expirydate": "14-09-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "5336addb643fdec1",
+    "key": "KM9SM-AHKSN-3CQGU-2VHLC",
+    "expirydate": "14-09-2027",
+    "Allowoffline": true
   }
 ]
