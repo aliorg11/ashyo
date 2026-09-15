@@ -1636,5 +1636,11 @@
     "key": "5KZ4J-NM8R3-VJ99K-H5WRK",
     "expirydate": "15-09-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "082c8dd9aeb3fe02",
+    "key": "UGVKX-4MASC-5BMYJ-ULP2Q",
+    "expirydate": "15-09-2027",
+    "Allowoffline": true
   }
 ]
