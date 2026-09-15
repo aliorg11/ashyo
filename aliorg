@@ -1624,5 +1624,11 @@
     "key": "KM9SM-AHKSN-3CQGU-2VHLC",
     "expirydate": "14-09-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "6ae23d23c4285937",
+    "key": "5WXXK-FLWAM-DAQ62-SSQFF",
+    "expirydate": "15-09-2027",
+    "Allowoffline": true
   }
 ]
