@@ -1654,5 +1654,11 @@
     "key": "7CBXG-B45KZ-3ARZU-NQ42A",
     "expirydate": "16-09-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "51cb466624593966",
+    "key": "CHRY6-MTNGV-7UVGY-G9F6Q",
+    "expirydate": "16-09-2027",
+    "Allowoffline": true
   }
 ]
