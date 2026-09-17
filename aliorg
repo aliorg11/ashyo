@@ -1666,5 +1666,11 @@
     "key": "YB9FY-TRN7A-CVYL5-GRQWK",
     "expirydate": "17-09-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "001b18db9cce2c98",
+    "key": "4FDVA-LX5E5-BWM84-X958H",
+    "expirydate": "17-09-2027",
+    "Allowoffline": true
   }
 ]
