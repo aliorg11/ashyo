@@ -1672,5 +1672,11 @@
     "key": "4FDVA-LX5E5-BWM84-X958H",
     "expirydate": "17-09-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "2c3aafd39d35d4d5",
+    "key": "DASU5-YCG6R-SR3XC-A9K2J",
+    "expirydate": "17-09-2027",
+    "Allowoffline": true
   }
 ]
