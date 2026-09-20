@@ -1678,5 +1678,11 @@
     "key": "6LEBW-QACAS-AGNPZ-NXCTR",
     "expirydate": "19-09-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "a3efc2d6a097460a",
+    "key": "MUVWX-ZUAE6-DUPJD-MBVN9",
+    "expirydate": "20-09-2027",
+    "Allowoffline": true
   }
 ]
